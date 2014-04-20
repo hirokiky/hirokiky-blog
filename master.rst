@@ -1,0 +1,66 @@
+Sitemap
+=======
+
+.. toctree::
+   :maxdepth: 1
+
+   2014/04/01/release_karmaid
+   2014/02/16/change_event_ignores_reset_button
+   2014/01/19/pyhack_snow_2014
+   2014/01/12/genaa_0_3_has_been_released
+   2014/01/12/comparing_reversed__urls_in_django_template
+   2013/12/31/new_years_python_meme_2013
+   2013/12/25/python_advent_calendar_2013_25th
+   2013/12/24/think_about_expression_of_blocks_as_1_byte
+   2013/12/15/2013_kabepy_advent_15
+   2013/12/07/kabepy_advent_calendar_2013
+   2013/12/06/trying_raw_of_djangos_queryset
+   2013/12/02/precure_advent_calendar_2013
+   2013/12/01/python_advent_calendar_2013
+   2013/11/09/how_to_keep_creating
+   2013/11/04/getting_the_definition_order_of_class_attributes_in_python
+   2013/11/03/whatis_outputting
+   2013/10/27/released_uiro_guestbook
+   2013/10/21/muchadoabout_pastescript
+   2013/10/15/avoiding_sideeffection_of_importing
+   2013/10/13/hello_repoze_who
+   2013/10/09/first_anniversary
+   2013/10/07/limiting_to_create_a_specific_model_from_django_admin
+   2013/10/06/released_matcha
+   2013/09/07/nightly_builded_tortoisehg_on_mac
+   2013/07/17/things_you_should_learn_from_geeks
+   2013/07/10/introduce_django_websettings
+   2013/07/07/tips_djangos_form_field
+   2013/07/04/search_view_with_long_long_params
+   2013/06/23/troubleshooting_geodjango_has_gdal_false
+   2013/06/18/dont_format_before_logging_in_python
+   2013/06/13/sentry_with_django_newauth
+   2013/06/12/testcase_multi_db_attribute_is_mistake
+   2013/06/03/async_file_deleting_with_django_storage
+   2013/06/02/ticket_18481_of_django
+   2013/05/31/mock_reeling
+   2013/05/29/write_your_web_server
+   2013/05/25/zope_interface_and_pyramid
+   2013/04/10/add_composite_index_by_south
+   2013/04/06/multiple_relationship_to_one_table_by_sqlalchemy
+   2013/03/23/django_s_overriding_settings_for_testing
+   2013/03/23/quick_start_guid_about_django_celery
+   2013/03/21/use_task_py_on_celery
+   2013/03/20/django_debug_toolbar_and_sql
+   2013/03/17/something_like_zope
+   2013/03/07/aggregation_with_sqlalchemy_sqlexpression
+   2013/02/19/aggregation_with_django
+   2013/02/14/added_myself_to_django_s_authors
+   2013/02/14/drafts_added_myself_to_django_s_authors_rst
+   2013/02/14/added_myself_to_django_s_authors
+   2013/01/14/at_what_age_you_shold_start_programming
+   2013/01/14/at_what_age_you_shold_start_programming
+   2012/12/31/new_years_python_meme_2012
+   2012/12/31/pushosu_released
+   2012/12/24/2012_kabepy_adv_24th
+   2012/12/10/2012_kabepy_adv_10th
+   2012/12/04/2012_kabepy_adv_4th
+   2012/12/02/how_to_disable_the_notice_of_copyright_on_tinkerer
+   2012/12/01/hello_world_
+   pages/about
+

@@ -1,0 +1,12 @@
+*.pyc
+*~
+*.orig
+*.rej
+*.bak
+*.o
+*.swp
+.DS_Store
+blog/*
+build/*
+.hgignore
+.hg/
