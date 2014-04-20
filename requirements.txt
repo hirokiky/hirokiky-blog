@@ -1,0 +1,4 @@
+docutils==0.11
+Sphinx==1.2.2
+Tinkerer==1.3.0
+sphinxcontrib.twitter==0.2.1
