@@ -1,5 +1,5 @@
-Build, Minify, Merge TypeScript by webassts
-===========================================
+Build, Minify, Merge TypeScript by webassets
+============================================
 
 Today, I introduce webassets_ to build TypeScript, minify each generated JavaScript, and merge it. 
 
