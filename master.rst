@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/06/17/migrated_to_rtd
    2014/04/20/using_webassets
    2014/04/01/release_karmaid
    2014/02/16/change_event_ignores_reset_button
