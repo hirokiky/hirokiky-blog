@@ -8,7 +8,7 @@ So thinkerer blogs can be avaiable on ReadTheDocs.
 But If you want to make it, you need some settings.
 
 Anyway, I'll write after for the detail. 
-Actually this is a post for testing.
+Actually this is a post for testing
 
 .. author:: default
 .. categories:: none
