@@ -3,7 +3,7 @@ Pythonにおける「許されざる悪事」を避けるために
 
 許されざる悪事というものが存在する
 
-* `許されざる悪事 <http://www.gembook.org/xu-sarezarue-shi.html>`_
+* `許されざる悪事 <http://www.gembook.org/2011-05-11.html>`_
 
 モジュールを import するだけでグローバルな値が設定されるというもの｡
 
