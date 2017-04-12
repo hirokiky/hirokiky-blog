@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2017/04/12/what_i_leaned_from_creating_a_new_product
    2014/06/29/renewed_the_site
    2014/06/17/migrated_to_rtd
    2014/04/20/using_webassets
